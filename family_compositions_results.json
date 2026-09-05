@@ -1,0 +1,8776 @@
+[
+ {
+  "g": [
+   -2,
+   0,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   1
+  ],
+  "f": [
+   2,
+   0,
+   -4,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 4,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 2,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.4,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   1
+  ],
+  "f": [
+   -1,
+   0,
+   2,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    2
+   ],
+   [
+    1,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.2,
+  "known_order": 8,
+  "matches_known": true
+ },
+ {
+  "g": [
+   -2,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   1
+  ],
+  "f": [
+   -1,
+   2,
+   3,
+   2,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    2
+   ],
+   [
+    1,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.2,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   1
+  ],
+  "h": [
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   7,
+   0,
+   -6,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.4,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   1
+  ],
+  "h": [
+   2,
+   0,
+   1
+  ],
+  "f": [
+   2,
+   0,
+   4,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 4,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 2,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.2,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   1
+  ],
+  "h": [
+   -1,
+   1,
+   1
+  ],
+  "f": [
+   -1,
+   -2,
+   -1,
+   2,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.3,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   1
+  ],
+  "f": [
+   5,
+   0,
+   -4,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.3,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   1
+  ],
+  "f": [
+   2,
+   0,
+   2,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.2,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   1
+  ],
+  "f": [
+   2,
+   2,
+   3,
+   2,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   1
+  ],
+  "h": [
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   10,
+   0,
+   -6,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.4,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   1
+  ],
+  "h": [
+   2,
+   0,
+   1
+  ],
+  "f": [
+   5,
+   0,
+   4,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.3,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   1
+  ],
+  "h": [
+   -1,
+   1,
+   1
+  ],
+  "f": [
+   2,
+   -2,
+   -1,
+   2,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.3,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   1
+  ],
+  "f": [
+   3,
+   0,
+   -3,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.2,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   1
+  ],
+  "f": [
+   3,
+   0,
+   3,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    2
+   ],
+   [
+    1,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.2,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   1
+  ],
+  "f": [
+   3,
+   3,
+   4,
+   2,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.3,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   1
+  ],
+  "h": [
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   7,
+   0,
+   -5,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.3,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   1
+  ],
+  "h": [
+   2,
+   0,
+   1
+  ],
+  "f": [
+   7,
+   0,
+   5,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.3,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   1
+  ],
+  "h": [
+   -1,
+   1,
+   1
+  ],
+  "f": [
+   1,
+   -1,
+   0,
+   2,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.3,
+  "known_order": null
+ },
+ {
+  "g": [
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   0,
+   -4,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 4,
+  "W_order": 4,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 2,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.5,
+  "known_order": null
+ },
+ {
+  "g": [
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   1
+  ],
+  "f": [
+   -2,
+   0,
+   2,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.3,
+  "known_order": null
+ },
+ {
+  "g": [
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   1
+  ],
+  "f": [
+   -2,
+   2,
+   3,
+   2,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.5,
+  "known_order": null
+ },
+ {
+  "g": [
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   6,
+   0,
+   -6,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.3,
+  "known_order": null
+ },
+ {
+  "g": [
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   2,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   0,
+   4,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 4,
+  "W_order": 4,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 2,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.3,
+  "known_order": null
+ },
+ {
+  "g": [
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   -1,
+   1,
+   1
+  ],
+  "f": [
+   -2,
+   -2,
+   -1,
+   2,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.3,
+  "known_order": null
+ },
+ {
+  "g": [
+   2,
+   0,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   1
+  ],
+  "f": [
+   6,
+   0,
+   -4,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    2
+   ],
+   [
+    1,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.3,
+  "known_order": null
+ },
+ {
+  "g": [
+   2,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   1
+  ],
+  "f": [
+   3,
+   0,
+   2,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.4,
+  "known_order": null
+ },
+ {
+  "g": [
+   2,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   1
+  ],
+  "f": [
+   3,
+   2,
+   3,
+   2,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    2
+   ],
+   [
+    1,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.1,
+  "known_order": null
+ },
+ {
+  "g": [
+   2,
+   0,
+   1
+  ],
+  "h": [
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   11,
+   0,
+   -6,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    2
+   ],
+   [
+    1,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.1,
+  "known_order": null
+ },
+ {
+  "g": [
+   2,
+   0,
+   1
+  ],
+  "h": [
+   2,
+   0,
+   1
+  ],
+  "f": [
+   6,
+   0,
+   4,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.3,
+  "known_order": null
+ },
+ {
+  "g": [
+   2,
+   0,
+   1
+  ],
+  "h": [
+   -1,
+   1,
+   1
+  ],
+  "f": [
+   3,
+   -2,
+   -1,
+   2,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    2
+   ],
+   [
+    1,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.3,
+  "known_order": null
+ },
+ {
+  "g": [
+   -1,
+   1,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   0,
+   -3,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   -1,
+   1,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   0,
+   3,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 4,
+  "W_order": 4,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 2,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.5,
+  "known_order": null
+ },
+ {
+  "g": [
+   -1,
+   1,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   1
+  ],
+  "f": [
+   1,
+   3,
+   4,
+   2,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 4,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 2,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.3,
+  "known_order": null
+ },
+ {
+  "g": [
+   -1,
+   1,
+   1
+  ],
+  "h": [
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   5,
+   0,
+   -5,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 4,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 2,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.4,
+  "known_order": null
+ },
+ {
+  "g": [
+   -1,
+   1,
+   1
+  ],
+  "h": [
+   2,
+   0,
+   1
+  ],
+  "f": [
+   5,
+   0,
+   5,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 4,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 2,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.3,
+  "known_order": null
+ },
+ {
+  "g": [
+   -1,
+   1,
+   1
+  ],
+  "h": [
+   -1,
+   1,
+   1
+  ],
+  "f": [
+   -1,
+   -1,
+   0,
+   2,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    2
+   ],
+   [
+    1,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.4,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   2,
+   0,
+   0,
+   -4,
+   0,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 36,
+  "W_order": 72,
+  "fibre_blocks": [
+   [
+    0,
+    2,
+    4
+   ],
+   [
+    1,
+    3,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 18,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 6,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 2.4,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   0,
+   1
+  ],
+  "f": [
+   -1,
+   2,
+   1,
+   2,
+   2,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 72,
+  "W_order": 72,
+  "fibre_blocks": [
+   [
+    0,
+    3,
+    4
+   ],
+   [
+    1,
+    2,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 36,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 6,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 3.9,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   -1,
+   -6,
+   9,
+   2,
+   -6,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 72,
+  "W_order": 72,
+  "fibre_blocks": [
+   [
+    0,
+    1,
+    2
+   ],
+   [
+    3,
+    4,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 36,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 3,
+  "X_local_group_in_Gal_h": false,
+  "status": "ok",
+  "time_s": 4.6,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   1,
+   0,
+   1
+  ],
+  "f": [
+   -2,
+   0,
+   1,
+   0,
+   2,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 12,
+  "W_order": 12,
+  "fibre_blocks": [
+   [
+    0,
+    1,
+    5
+   ],
+   [
+    2,
+    3,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 6,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 1.8,
+  "known_order": 12,
+  "matches_known": true
+ },
+ {
+  "g": [
+   -2,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   -2,
+   0,
+   9,
+   0,
+   -6,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   1
+  ],
+  "h": [
+   2,
+   0,
+   1,
+   1
+  ],
+  "f": [
+   2,
+   0,
+   4,
+   4,
+   1,
+   2,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 72,
+  "W_order": 72,
+  "fibre_blocks": [
+   [
+    0,
+    2,
+    5
+   ],
+   [
+    1,
+    3,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 36,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 6,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 2.5,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   5,
+   0,
+   0,
+   -4,
+   0,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 36,
+  "W_order": 72,
+  "fibre_blocks": [
+   [
+    0,
+    2,
+    5
+   ],
+   [
+    1,
+    3,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 18,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 6,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 3.5,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   0,
+   1
+  ],
+  "f": [
+   2,
+   2,
+   1,
+   2,
+   2,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 72,
+  "W_order": 72,
+  "fibre_blocks": [
+   [
+    0,
+    3,
+    4
+   ],
+   [
+    1,
+    2,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 36,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 6,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 4.1,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   2,
+   -6,
+   9,
+   2,
+   -6,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 72,
+  "W_order": 72,
+  "fibre_blocks": [
+   [
+    0,
+    3,
+    5
+   ],
+   [
+    1,
+    2,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 36,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 3,
+  "X_local_group_in_Gal_h": false,
+  "status": "ok",
+  "time_s": 3.9,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   1,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   0,
+   1,
+   0,
+   2,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 12,
+  "W_order": 12,
+  "fibre_blocks": [
+   [
+    0,
+    1,
+    5
+   ],
+   [
+    2,
+    3,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 6,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 1.2,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   0,
+   9,
+   0,
+   -6,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 12,
+  "W_order": 12,
+  "fibre_blocks": [
+   [
+    0,
+    1,
+    2
+   ],
+   [
+    3,
+    4,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 6,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 2.7,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   1
+  ],
+  "h": [
+   2,
+   0,
+   1,
+   1
+  ],
+  "f": [
+   5,
+   0,
+   4,
+   4,
+   1,
+   2,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 72,
+  "W_order": 72,
+  "fibre_blocks": [
+   [
+    0,
+    1,
+    4
+   ],
+   [
+    2,
+    3,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 36,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 6,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 4.3,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   3,
+   0,
+   0,
+   -3,
+   0,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 18,
+  "W_order": 72,
+  "fibre_blocks": [
+   [
+    0,
+    4,
+    5
+   ],
+   [
+    1,
+    2,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 3,
+  "kernel_order": 9,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 6,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 2.8,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   0,
+   1
+  ],
+  "f": [
+   3,
+   3,
+   1,
+   3,
+   2,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 72,
+  "W_order": 72,
+  "fibre_blocks": [
+   [
+    0,
+    3,
+    4
+   ],
+   [
+    1,
+    2,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 36,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 6,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 2.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   1
+  ],
+  "h": [
+   1,
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   3,
+   -9,
+   9,
+   3,
+   -6,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 72,
+  "W_order": 72,
+  "fibre_blocks": [
+   [
+    0,
+    3,
+    5
+   ],
+   [
+    1,
+    2,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 36,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 3,
+  "X_local_group_in_Gal_h": false,
+  "status": "ok",
+  "time_s": 2.1,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   1
+  ],
+  "h": [
+   0,
+   1,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   1,
+   1,
+   1,
+   2,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   1
+  ],
+  "h": [
+   0,
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   -3,
+   9,
+   1,
+   -6,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 72,
+  "W_order": 72,
+  "fibre_blocks": [
+   [
+    0,
+    1,
+    3
+   ],
+   [
+    2,
+    4,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 36,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 3.6,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   1
+  ],
+  "h": [
+   2,
+   0,
+   1,
+   1
+  ],
+  "f": [
+   7,
+   0,
+   5,
+   5,
+   1,
+   2,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 72,
+  "W_order": 72,
+  "fibre_blocks": [
+   [
+    0,
+    4,
+    5
+   ],
+   [
+    1,
+    2,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 36,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 6,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 3.2,
+  "known_order": null
+ },
+ {
+  "g": [
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   0,
+   0,
+   -4,
+   0,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 12,
+  "W_order": 12,
+  "fibre_blocks": [
+   [
+    0,
+    3,
+    4
+   ],
+   [
+    1,
+    2,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 6,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 6,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 2.6,
+  "known_order": null
+ },
+ {
+  "g": [
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   0,
+   1
+  ],
+  "f": [
+   -2,
+   2,
+   1,
+   2,
+   2,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 72,
+  "W_order": 72,
+  "fibre_blocks": [
+   [
+    0,
+    3,
+    4
+   ],
+   [
+    1,
+    2,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 36,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 6,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 4.9,
+  "known_order": null
+ },
+ {
+  "g": [
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   -2,
+   -6,
+   9,
+   2,
+   -6,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 72,
+  "W_order": 72,
+  "fibre_blocks": [
+   [
+    0,
+    3,
+    5
+   ],
+   [
+    1,
+    2,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 36,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 3,
+  "X_local_group_in_Gal_h": false,
+  "status": "ok",
+  "time_s": 2.8,
+  "known_order": null
+ },
+ {
+  "g": [
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   1,
+   0,
+   1
+  ],
+  "f": [
+   -3,
+   0,
+   1,
+   0,
+   2,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 12,
+  "W_order": 12,
+  "fibre_blocks": [
+   [
+    0,
+    1,
+    2
+   ],
+   [
+    3,
+    4,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 6,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 2.9,
+  "known_order": null
+ },
+ {
+  "g": [
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   -3,
+   0,
+   9,
+   0,
+   -6,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 6,
+  "W_order": 12,
+  "fibre_blocks": [
+   [
+    0,
+    1,
+    2
+   ],
+   [
+    3,
+    4,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 3,
+  "kernel_order": 3,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 5.4,
+  "known_order": null
+ },
+ {
+  "g": [
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   2,
+   0,
+   1,
+   1
+  ],
+  "f": [
+   1,
+   0,
+   4,
+   4,
+   1,
+   2,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 72,
+  "W_order": 72,
+  "fibre_blocks": [
+   [
+    0,
+    1,
+    3
+   ],
+   [
+    2,
+    4,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 36,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 6,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 2.9,
+  "known_order": null
+ },
+ {
+  "g": [
+   2,
+   0,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   6,
+   0,
+   0,
+   -4,
+   0,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 36,
+  "W_order": 72,
+  "fibre_blocks": [
+   [
+    0,
+    1,
+    3
+   ],
+   [
+    2,
+    4,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 18,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 6,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 2.7,
+  "known_order": null
+ },
+ {
+  "g": [
+   2,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   0,
+   1
+  ],
+  "f": [
+   3,
+   2,
+   1,
+   2,
+   2,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 72,
+  "W_order": 72,
+  "fibre_blocks": [
+   [
+    0,
+    3,
+    5
+   ],
+   [
+    1,
+    2,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 36,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 6,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.9,
+  "known_order": null
+ },
+ {
+  "g": [
+   2,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   3,
+   -6,
+   9,
+   2,
+   -6,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 72,
+  "W_order": 72,
+  "fibre_blocks": [
+   [
+    0,
+    3,
+    5
+   ],
+   [
+    1,
+    2,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 36,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 3,
+  "X_local_group_in_Gal_h": false,
+  "status": "ok",
+  "time_s": 3.6,
+  "known_order": null
+ },
+ {
+  "g": [
+   2,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   1,
+   0,
+   1
+  ],
+  "f": [
+   2,
+   0,
+   1,
+   0,
+   2,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   2,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   2,
+   0,
+   9,
+   0,
+   -6,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 12,
+  "W_order": 12,
+  "fibre_blocks": [
+   [
+    0,
+    1,
+    3
+   ],
+   [
+    2,
+    4,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 6,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 2.5,
+  "known_order": null
+ },
+ {
+  "g": [
+   2,
+   0,
+   1
+  ],
+  "h": [
+   2,
+   0,
+   1,
+   1
+  ],
+  "f": [
+   6,
+   0,
+   4,
+   4,
+   1,
+   2,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 72,
+  "W_order": 72,
+  "fibre_blocks": [
+   [
+    0,
+    3,
+    4
+   ],
+   [
+    1,
+    2,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 36,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 6,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 2.8,
+  "known_order": null
+ },
+ {
+  "g": [
+   -1,
+   1,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   0,
+   0,
+   -3,
+   0,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 12,
+  "W_order": 12,
+  "fibre_blocks": [
+   [
+    0,
+    1,
+    3
+   ],
+   [
+    2,
+    4,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 6,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 6,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 2.6,
+  "known_order": null
+ },
+ {
+  "g": [
+   -1,
+   1,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   3,
+   1,
+   3,
+   2,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 72,
+  "W_order": 72,
+  "fibre_blocks": [
+   [
+    0,
+    1,
+    2
+   ],
+   [
+    3,
+    4,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 36,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 6,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 2.7,
+  "known_order": null
+ },
+ {
+  "g": [
+   -1,
+   1,
+   1
+  ],
+  "h": [
+   1,
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   -9,
+   9,
+   3,
+   -6,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 72,
+  "W_order": 72,
+  "fibre_blocks": [
+   [
+    0,
+    3,
+    4
+   ],
+   [
+    1,
+    2,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 36,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 3,
+  "X_local_group_in_Gal_h": false,
+  "status": "ok",
+  "time_s": 3.9,
+  "known_order": null
+ },
+ {
+  "g": [
+   -1,
+   1,
+   1
+  ],
+  "h": [
+   0,
+   1,
+   0,
+   1
+  ],
+  "f": [
+   -1,
+   1,
+   1,
+   1,
+   2,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 72,
+  "W_order": 72,
+  "fibre_blocks": [
+   [
+    0,
+    2,
+    3
+   ],
+   [
+    1,
+    4,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 36,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 3.3,
+  "known_order": null
+ },
+ {
+  "g": [
+   -1,
+   1,
+   1
+  ],
+  "h": [
+   0,
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   -1,
+   -3,
+   9,
+   1,
+   -6,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   -1,
+   1,
+   1
+  ],
+  "h": [
+   2,
+   0,
+   1,
+   1
+  ],
+  "f": [
+   5,
+   0,
+   5,
+   5,
+   1,
+   2,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 72,
+  "W_order": 72,
+  "fibre_blocks": [
+   [
+    0,
+    3,
+    4
+   ],
+   [
+    1,
+    2,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 36,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 6,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 2.7,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   -1,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "G_order": 16,
+  "W_order": 128,
+  "fibre_blocks": [
+   [
+    0,
+    1,
+    5,
+    7
+   ],
+   [
+    2,
+    3,
+    4,
+    6
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 8,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 4,
+  "X_local_group_in_Gal_h": false,
+  "status": "ok",
+  "time_s": 19.7,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   2,
+   0,
+   0,
+   0,
+   -4,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "G_order": 32,
+  "W_order": 128,
+  "fibre_blocks": [
+   [
+    0,
+    3,
+    4,
+    6
+   ],
+   [
+    1,
+    2,
+    5,
+    7
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 8,
+  "kernel_order": 16,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 8,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 25.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   -1,
+   2,
+   1,
+   0,
+   2,
+   2,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "status": "skipped: |U| = 1152 exceeds the brute-force subgroup enumeration cap 600",
+  "time_s": 7.8,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   1,
+   0,
+   1
+  ],
+  "f": [
+   -1,
+   0,
+   2,
+   0,
+   3,
+   0,
+   2,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "G_order": 128,
+  "W_order": 128,
+  "fibre_blocks": [
+   [
+    0,
+    3,
+    4,
+    6
+   ],
+   [
+    1,
+    2,
+    5,
+    7
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 8,
+  "kernel_order": 64,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 7.6,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   2,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "G_order": 32,
+  "W_order": 128,
+  "fibre_blocks": [
+   [
+    0,
+    2,
+    4,
+    6
+   ],
+   [
+    1,
+    3,
+    5,
+    7
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 4,
+  "kernel_order": 16,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 4,
+  "X_local_group_in_Gal_h": false,
+  "status": "ok",
+  "time_s": 18.2,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   5,
+   0,
+   0,
+   0,
+   -4,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "G_order": 32,
+  "W_order": 128,
+  "fibre_blocks": [
+   [
+    0,
+    3,
+    4,
+    6
+   ],
+   [
+    1,
+    2,
+    5,
+    7
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 4,
+  "kernel_order": 16,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 8,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 23.1,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   2,
+   2,
+   1,
+   0,
+   2,
+   2,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "status": "skipped: |U| = 1152 exceeds the brute-force subgroup enumeration cap 600",
+  "time_s": 18.6,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   1,
+   0,
+   1
+  ],
+  "f": [
+   2,
+   0,
+   2,
+   0,
+   3,
+   0,
+   2,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   3,
+   0,
+   0,
+   0,
+   3,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "G_order": 32,
+  "W_order": 128,
+  "fibre_blocks": [
+   [
+    0,
+    2,
+    5,
+    7
+   ],
+   [
+    1,
+    3,
+    4,
+    6
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 8,
+  "kernel_order": 16,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 4,
+  "X_local_group_in_Gal_h": false,
+  "status": "ok",
+  "time_s": 20.1,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   3,
+   0,
+   0,
+   0,
+   -3,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "G_order": 32,
+  "W_order": 128,
+  "fibre_blocks": [
+   [
+    0,
+    2,
+    4,
+    6
+   ],
+   [
+    1,
+    3,
+    5,
+    7
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 8,
+  "kernel_order": 16,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 8,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 20.5,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   3,
+   3,
+   1,
+   0,
+   3,
+   2,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "status": "skipped: |U| = 1152 exceeds the brute-force subgroup enumeration cap 600",
+  "time_s": 8.4,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   1,
+   0,
+   1
+  ],
+  "f": [
+   3,
+   0,
+   3,
+   0,
+   4,
+   0,
+   2,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "G_order": 128,
+  "W_order": 128,
+  "fibre_blocks": [
+   [
+    0,
+    1,
+    6,
+    7
+   ],
+   [
+    2,
+    3,
+    4,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 8,
+  "kernel_order": 64,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 22.2,
+  "known_order": null
+ },
+ {
+  "g": [
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   -2,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "G_order": 64,
+  "W_order": 128,
+  "fibre_blocks": [
+   [
+    0,
+    1,
+    6,
+    7
+   ],
+   [
+    2,
+    3,
+    4,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 8,
+  "kernel_order": 32,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 4,
+  "X_local_group_in_Gal_h": false,
+  "status": "ok",
+  "time_s": 23.4,
+  "known_order": null
+ },
+ {
+  "g": [
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   0,
+   0,
+   0,
+   -4,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "G_order": 16,
+  "W_order": 16,
+  "fibre_blocks": [
+   [
+    0,
+    3,
+    4,
+    6
+   ],
+   [
+    1,
+    2,
+    5,
+    7
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 8,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 8,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 16.5,
+  "known_order": null
+ },
+ {
+  "g": [
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   -2,
+   2,
+   1,
+   0,
+   2,
+   2,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "status": "skipped: |U| = 1152 exceeds the brute-force subgroup enumeration cap 600",
+  "time_s": 9.8,
+  "known_order": null
+ },
+ {
+  "g": [
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   1,
+   0,
+   1
+  ],
+  "f": [
+   -2,
+   0,
+   2,
+   0,
+   3,
+   0,
+   2,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "G_order": 128,
+  "W_order": 128,
+  "fibre_blocks": [
+   [
+    0,
+    3,
+    4,
+    6
+   ],
+   [
+    1,
+    2,
+    5,
+    7
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 8,
+  "kernel_order": 64,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 26.4,
+  "known_order": null
+ },
+ {
+  "g": [
+   2,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   3,
+   0,
+   0,
+   0,
+   2,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "G_order": 64,
+  "W_order": 128,
+  "fibre_blocks": [
+   [
+    0,
+    3,
+    4,
+    6
+   ],
+   [
+    1,
+    2,
+    5,
+    7
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 8,
+  "kernel_order": 32,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 4,
+  "X_local_group_in_Gal_h": false,
+  "status": "ok",
+  "time_s": 15.6,
+  "known_order": null
+ },
+ {
+  "g": [
+   2,
+   0,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   6,
+   0,
+   0,
+   0,
+   -4,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "G_order": 64,
+  "W_order": 128,
+  "fibre_blocks": [
+   [
+    0,
+    3,
+    6,
+    7
+   ],
+   [
+    1,
+    2,
+    4,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 8,
+  "kernel_order": 32,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 8,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 23.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   2,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   3,
+   2,
+   1,
+   0,
+   2,
+   2,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "status": "skipped: |U| = 1152 exceeds the brute-force subgroup enumeration cap 600",
+  "time_s": 14.8,
+  "known_order": null
+ },
+ {
+  "g": [
+   2,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   1,
+   0,
+   1
+  ],
+  "f": [
+   3,
+   0,
+   2,
+   0,
+   3,
+   0,
+   2,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "G_order": 128,
+  "W_order": 128,
+  "fibre_blocks": [
+   [
+    0,
+    2,
+    5,
+    6
+   ],
+   [
+    1,
+    3,
+    4,
+    7
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 8,
+  "kernel_order": 64,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 22.4,
+  "known_order": null
+ },
+ {
+  "g": [
+   -1,
+   1,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   0,
+   0,
+   0,
+   3,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    1,
+    6,
+    7
+   ],
+   [
+    2,
+    3,
+    4,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 4,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 4,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 27.8,
+  "known_order": null
+ },
+ {
+  "g": [
+   -1,
+   1,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   0,
+   0,
+   0,
+   -3,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   -1,
+   1,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   3,
+   1,
+   0,
+   3,
+   2,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "status": "skipped: |U| = 1152 exceeds the brute-force subgroup enumeration cap 600",
+  "time_s": 11.3,
+  "known_order": null
+ },
+ {
+  "g": [
+   -1,
+   1,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   1,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   0,
+   3,
+   0,
+   4,
+   0,
+   2,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "G_order": 16,
+  "W_order": 32,
+  "fibre_blocks": [
+   [
+    0,
+    1,
+    5,
+    7
+   ],
+   [
+    2,
+    3,
+    4,
+    6
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 4,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 10.4,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   1
+  ],
+  "f": [
+   -10,
+   0,
+   12,
+   0,
+   -6,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "G_order": 48,
+  "W_order": 48,
+  "fibre_blocks": [
+   [
+    0,
+    5
+   ],
+   [
+    1,
+    3
+   ],
+   [
+    2,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 6,
+  "Gal_g_order": 6,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 4.4,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   1
+  ],
+  "f": [
+   -1,
+   0,
+   3,
+   0,
+   3,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "G_order": 24,
+  "W_order": 48,
+  "fibre_blocks": [
+   [
+    0,
+    4
+   ],
+   [
+    1,
+    5
+   ],
+   [
+    2,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 6,
+  "Gal_g_order": 6,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 5.1,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   1
+  ],
+  "f": [
+   -1,
+   3,
+   6,
+   7,
+   6,
+   3,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "G_order": 48,
+  "W_order": 48,
+  "fibre_blocks": [
+   [
+    0,
+    4
+   ],
+   [
+    1,
+    5
+   ],
+   [
+    2,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 6,
+  "Gal_g_order": 6,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 1.6,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   -29,
+   0,
+   27,
+   0,
+   -9,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "G_order": 48,
+  "W_order": 48,
+  "fibre_blocks": [
+   [
+    0,
+    5
+   ],
+   [
+    1,
+    2
+   ],
+   [
+    3,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 6,
+  "Gal_g_order": 6,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 1.6,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   2,
+   0,
+   1
+  ],
+  "f": [
+   6,
+   0,
+   12,
+   0,
+   6,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "G_order": 12,
+  "W_order": 12,
+  "fibre_blocks": [
+   [
+    0,
+    5
+   ],
+   [
+    1,
+    2
+   ],
+   [
+    3,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 6,
+  "Gal_g_order": 6,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 2,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 1.3,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   -1,
+   1,
+   1
+  ],
+  "f": [
+   -3,
+   3,
+   0,
+   -5,
+   0,
+   3,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "G_order": 48,
+  "W_order": 48,
+  "fibre_blocks": [
+   [
+    0,
+    4
+   ],
+   [
+    1,
+    5
+   ],
+   [
+    2,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 6,
+  "Gal_g_order": 6,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 4.9,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   0,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   1
+  ],
+  "f": [
+   -9,
+   0,
+   13,
+   0,
+   -6,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   1
+  ],
+  "f": [
+   3,
+   0,
+   4,
+   0,
+   3,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "G_order": 48,
+  "W_order": 48,
+  "fibre_blocks": [
+   [
+    0,
+    5
+   ],
+   [
+    1,
+    4
+   ],
+   [
+    2,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 6,
+  "Gal_g_order": 6,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 4.2,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   1
+  ],
+  "f": [
+   3,
+   4,
+   7,
+   7,
+   6,
+   3,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "G_order": 48,
+  "W_order": 48,
+  "fibre_blocks": [
+   [
+    0,
+    5
+   ],
+   [
+    1,
+    2
+   ],
+   [
+    3,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 6,
+  "Gal_g_order": 6,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.9,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   0,
+   1
+  ],
+  "h": [
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   -29,
+   0,
+   28,
+   0,
+   -9,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "G_order": 48,
+  "W_order": 48,
+  "fibre_blocks": [
+   [
+    0,
+    5
+   ],
+   [
+    1,
+    2
+   ],
+   [
+    3,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 6,
+  "Gal_g_order": 6,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 0.8,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   0,
+   1
+  ],
+  "h": [
+   2,
+   0,
+   1
+  ],
+  "f": [
+   11,
+   0,
+   13,
+   0,
+   6,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "G_order": 48,
+  "W_order": 48,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    5
+   ],
+   [
+    2,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 6,
+  "Gal_g_order": 6,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 3.8,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   0,
+   1
+  ],
+  "h": [
+   -1,
+   1,
+   1
+  ],
+  "f": [
+   -1,
+   4,
+   1,
+   -5,
+   0,
+   3,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "G_order": 48,
+  "W_order": 48,
+  "fibre_blocks": [
+   [
+    0,
+    5
+   ],
+   [
+    1,
+    4
+   ],
+   [
+    2,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 6,
+  "Gal_g_order": 6,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 3.5,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   1
+  ],
+  "f": [
+   -1,
+   0,
+   9,
+   0,
+   -6,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   1
+  ],
+  "f": [
+   -1,
+   0,
+   0,
+   0,
+   3,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "G_order": 12,
+  "W_order": 48,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    5
+   ],
+   [
+    2,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 3,
+  "Gal_g_order": 3,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 3.8,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   1
+  ],
+  "f": [
+   -1,
+   0,
+   3,
+   7,
+   6,
+   3,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "G_order": 24,
+  "W_order": 48,
+  "fibre_blocks": [
+   [
+    0,
+    5
+   ],
+   [
+    1,
+    4
+   ],
+   [
+    2,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 3,
+  "Gal_g_order": 3,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 3.9,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   -17,
+   0,
+   24,
+   0,
+   -9,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "G_order": 24,
+  "W_order": 48,
+  "fibre_blocks": [
+   [
+    0,
+    4
+   ],
+   [
+    1,
+    5
+   ],
+   [
+    2,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 3,
+  "Gal_g_order": 3,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 4.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   2,
+   0,
+   1
+  ],
+  "f": [
+   3,
+   0,
+   9,
+   0,
+   6,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "G_order": 6,
+  "W_order": 12,
+  "fibre_blocks": [
+   [
+    0,
+    5
+   ],
+   [
+    1,
+    4
+   ],
+   [
+    2,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 3,
+  "Gal_g_order": 3,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 2,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 3.8,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   -1,
+   1,
+   1
+  ],
+  "f": [
+   3,
+   0,
+   -3,
+   -5,
+   0,
+   3,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "G_order": 24,
+  "W_order": 48,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    5
+   ],
+   [
+    2,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 3,
+  "Gal_g_order": 3,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 3.5,
+  "known_order": null
+ },
+ {
+  "g": [
+   0,
+   1,
+   0,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   1
+  ],
+  "f": [
+   -10,
+   0,
+   13,
+   0,
+   -6,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   0,
+   1,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   1
+  ],
+  "f": [
+   2,
+   0,
+   4,
+   0,
+   3,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   0,
+   1,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   1
+  ],
+  "f": [
+   2,
+   4,
+   7,
+   7,
+   6,
+   3,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   0,
+   1,
+   0,
+   1
+  ],
+  "h": [
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   -30,
+   0,
+   28,
+   0,
+   -9,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   0,
+   1,
+   0,
+   1
+  ],
+  "h": [
+   2,
+   0,
+   1
+  ],
+  "f": [
+   10,
+   0,
+   13,
+   0,
+   6,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   0,
+   1,
+   0,
+   1
+  ],
+  "h": [
+   -1,
+   1,
+   1
+  ],
+  "f": [
+   -2,
+   4,
+   1,
+   -5,
+   0,
+   3,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   0,
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   1
+  ],
+  "f": [
+   -2,
+   0,
+   9,
+   0,
+   -6,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   0,
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   1
+  ],
+  "f": [
+   -2,
+   0,
+   0,
+   0,
+   3,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   0,
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   1
+  ],
+  "f": [
+   -2,
+   0,
+   3,
+   7,
+   6,
+   3,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   0,
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   -18,
+   0,
+   24,
+   0,
+   -9,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   0,
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   2,
+   0,
+   1
+  ],
+  "f": [
+   2,
+   0,
+   9,
+   0,
+   6,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   0,
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   -1,
+   1,
+   1
+  ],
+  "f": [
+   2,
+   0,
+   -3,
+   -5,
+   0,
+   3,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   2,
+   0,
+   1,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   1
+  ],
+  "f": [
+   -2,
+   0,
+   8,
+   0,
+   -5,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "G_order": 48,
+  "W_order": 48,
+  "fibre_blocks": [
+   [
+    0,
+    4
+   ],
+   [
+    1,
+    2
+   ],
+   [
+    3,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 6,
+  "Gal_g_order": 6,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 2.1,
+  "known_order": null
+ },
+ {
+  "g": [
+   2,
+   0,
+   1,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   1
+  ],
+  "f": [
+   4,
+   0,
+   5,
+   0,
+   4,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "G_order": 48,
+  "W_order": 48,
+  "fibre_blocks": [
+   [
+    0,
+    4
+   ],
+   [
+    1,
+    5
+   ],
+   [
+    2,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 6,
+  "Gal_g_order": 6,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 2.1,
+  "known_order": null
+ },
+ {
+  "g": [
+   2,
+   0,
+   1,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   1
+  ],
+  "f": [
+   4,
+   5,
+   9,
+   9,
+   7,
+   3,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "G_order": 48,
+  "W_order": 48,
+  "fibre_blocks": [
+   [
+    0,
+    5
+   ],
+   [
+    1,
+    4
+   ],
+   [
+    2,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 6,
+  "Gal_g_order": 6,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 3.8,
+  "known_order": null
+ },
+ {
+  "g": [
+   2,
+   0,
+   1,
+   1
+  ],
+  "h": [
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   -16,
+   0,
+   21,
+   0,
+   -8,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "G_order": 24,
+  "W_order": 48,
+  "fibre_blocks": [
+   [
+    0,
+    4
+   ],
+   [
+    1,
+    5
+   ],
+   [
+    2,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 6,
+  "Gal_g_order": 6,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 3.8,
+  "known_order": null
+ },
+ {
+  "g": [
+   2,
+   0,
+   1,
+   1
+  ],
+  "h": [
+   2,
+   0,
+   1
+  ],
+  "f": [
+   14,
+   0,
+   16,
+   0,
+   7,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "G_order": 48,
+  "W_order": 48,
+  "fibre_blocks": [
+   [
+    0,
+    5
+   ],
+   [
+    1,
+    4
+   ],
+   [
+    2,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 6,
+  "Gal_g_order": 6,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 3.9,
+  "known_order": null
+ },
+ {
+  "g": [
+   2,
+   0,
+   1,
+   1
+  ],
+  "h": [
+   -1,
+   1,
+   1
+  ],
+  "f": [
+   2,
+   1,
+   -1,
+   -3,
+   1,
+   3,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "G_order": 48,
+  "W_order": 48,
+  "fibre_blocks": [
+   [
+    0,
+    5
+   ],
+   [
+    1,
+    4
+   ],
+   [
+    2,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 6,
+  "Gal_g_order": 6,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 4.1,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   1
+  ],
+  "f": [
+   17,
+   0,
+   -32,
+   0,
+   24,
+   0,
+   -8,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "G_order": 64,
+  "W_order": 64,
+  "fibre_blocks": [
+   [
+    0,
+    6
+   ],
+   [
+    1,
+    7
+   ],
+   [
+    2,
+    5
+   ],
+   [
+    3,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 4,
+  "Gal_g_order": 4,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 16,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 24.9,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   1
+  ],
+  "f": [
+   2,
+   0,
+   4,
+   0,
+   6,
+   0,
+   4,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "G_order": 32,
+  "W_order": 64,
+  "fibre_blocks": [
+   [
+    0,
+    7
+   ],
+   [
+    1,
+    6
+   ],
+   [
+    2,
+    5
+   ],
+   [
+    3,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 4,
+  "Gal_g_order": 4,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 15.7,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   1
+  ],
+  "f": [
+   2,
+   4,
+   10,
+   16,
+   19,
+   16,
+   10,
+   4,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "G_order": 64,
+  "W_order": 64,
+  "fibre_blocks": [
+   [
+    0,
+    4
+   ],
+   [
+    1,
+    7
+   ],
+   [
+    2,
+    6
+   ],
+   [
+    3,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 4,
+  "Gal_g_order": 4,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 16,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 15.5,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   82,
+   0,
+   -108,
+   0,
+   54,
+   0,
+   -12,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "G_order": 64,
+  "W_order": 64,
+  "fibre_blocks": [
+   [
+    0,
+    6
+   ],
+   [
+    1,
+    7
+   ],
+   [
+    2,
+    5
+   ],
+   [
+    3,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 4,
+  "Gal_g_order": 4,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 16,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 13.8,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   2,
+   0,
+   1
+  ],
+  "f": [
+   17,
+   0,
+   32,
+   0,
+   24,
+   0,
+   8,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "G_order": 64,
+  "W_order": 64,
+  "fibre_blocks": [
+   [
+    0,
+    7
+   ],
+   [
+    1,
+    6
+   ],
+   [
+    2,
+    5
+   ],
+   [
+    3,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 4,
+  "Gal_g_order": 4,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 16,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 23.7,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   -1,
+   1,
+   1
+  ],
+  "f": [
+   2,
+   -4,
+   2,
+   8,
+   -5,
+   -8,
+   2,
+   4,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "G_order": 64,
+  "W_order": 64,
+  "fibre_blocks": [
+   [
+    0,
+    5
+   ],
+   [
+    1,
+    7
+   ],
+   [
+    2,
+    6
+   ],
+   [
+    3,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 4,
+  "Gal_g_order": 4,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 16,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 15.5,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   1
+  ],
+  "f": [
+   14,
+   0,
+   -32,
+   0,
+   24,
+   0,
+   -8,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "G_order": 128,
+  "W_order": 128,
+  "fibre_blocks": [
+   [
+    0,
+    7
+   ],
+   [
+    1,
+    6
+   ],
+   [
+    2,
+    5
+   ],
+   [
+    3,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 8,
+  "Gal_g_order": 8,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 16,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 31.4,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   1
+  ],
+  "f": [
+   -1,
+   0,
+   4,
+   0,
+   6,
+   0,
+   4,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "G_order": 64,
+  "W_order": 128,
+  "fibre_blocks": [
+   [
+    0,
+    7
+   ],
+   [
+    1,
+    6
+   ],
+   [
+    2,
+    5
+   ],
+   [
+    3,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 8,
+  "Gal_g_order": 8,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 19.1,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   1
+  ],
+  "f": [
+   -1,
+   4,
+   10,
+   16,
+   19,
+   16,
+   10,
+   4,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "G_order": 128,
+  "W_order": 128,
+  "fibre_blocks": [
+   [
+    0,
+    5
+   ],
+   [
+    1,
+    7
+   ],
+   [
+    2,
+    6
+   ],
+   [
+    3,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 8,
+  "Gal_g_order": 8,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 16,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 27.9,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   79,
+   0,
+   -108,
+   0,
+   54,
+   0,
+   -12,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "G_order": 128,
+  "W_order": 128,
+  "fibre_blocks": [
+   [
+    0,
+    7
+   ],
+   [
+    1,
+    2
+   ],
+   [
+    3,
+    5
+   ],
+   [
+    4,
+    6
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 8,
+  "Gal_g_order": 8,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 16,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 19.8,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   2,
+   0,
+   1
+  ],
+  "f": [
+   14,
+   0,
+   32,
+   0,
+   24,
+   0,
+   8,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "G_order": 128,
+  "W_order": 128,
+  "fibre_blocks": [
+   [
+    0,
+    6
+   ],
+   [
+    1,
+    7
+   ],
+   [
+    2,
+    4
+   ],
+   [
+    3,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 8,
+  "Gal_g_order": 8,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 16,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 27.1,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   -1,
+   1,
+   1
+  ],
+  "f": [
+   -1,
+   -4,
+   2,
+   8,
+   -5,
+   -8,
+   2,
+   4,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "G_order": 128,
+  "W_order": 128,
+  "fibre_blocks": [
+   [
+    0,
+    5
+   ],
+   [
+    1,
+    6
+   ],
+   [
+    2,
+    7
+   ],
+   [
+    3,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 8,
+  "Gal_g_order": 8,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 16,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 19.6,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   1
+  ],
+  "f": [
+   15,
+   0,
+   -31,
+   0,
+   24,
+   0,
+   -8,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "G_order": 384,
+  "W_order": 384,
+  "fibre_blocks": [
+   [
+    0,
+    4
+   ],
+   [
+    1,
+    7
+   ],
+   [
+    2,
+    6
+   ],
+   [
+    3,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 24,
+  "Gal_g_order": 24,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 16,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 12.3,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   1
+  ],
+  "f": [
+   3,
+   0,
+   5,
+   0,
+   6,
+   0,
+   4,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "G_order": 384,
+  "W_order": 384,
+  "fibre_blocks": [
+   [
+    0,
+    4
+   ],
+   [
+    1,
+    7
+   ],
+   [
+    2,
+    6
+   ],
+   [
+    3,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 24,
+  "Gal_g_order": 24,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 16,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 14.9,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   1
+  ],
+  "f": [
+   3,
+   5,
+   11,
+   16,
+   19,
+   16,
+   10,
+   4,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   79,
+   0,
+   -107,
+   0,
+   54,
+   0,
+   -12,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "G_order": 384,
+  "W_order": 384,
+  "fibre_blocks": [
+   [
+    0,
+    5
+   ],
+   [
+    1,
+    2
+   ],
+   [
+    3,
+    7
+   ],
+   [
+    4,
+    6
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 24,
+  "Gal_g_order": 24,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 16,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 12.7,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   2,
+   0,
+   1
+  ],
+  "f": [
+   19,
+   0,
+   33,
+   0,
+   24,
+   0,
+   8,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "G_order": 384,
+  "W_order": 384,
+  "fibre_blocks": [
+   [
+    0,
+    7
+   ],
+   [
+    1,
+    6
+   ],
+   [
+    2,
+    5
+   ],
+   [
+    3,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 24,
+  "Gal_g_order": 24,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 16,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 7.2,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   -1,
+   1,
+   1
+  ],
+  "f": [
+   1,
+   -3,
+   3,
+   8,
+   -5,
+   -8,
+   2,
+   4,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "G_order": 384,
+  "W_order": 384,
+  "fibre_blocks": [
+   [
+    0,
+    6
+   ],
+   [
+    1,
+    7
+   ],
+   [
+    2,
+    5
+   ],
+   [
+    3,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 24,
+  "Gal_g_order": 24,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 16,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": 2,
+  "X_local_group_in_Gal_h": true,
+  "status": "ok",
+  "time_s": 18.9,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   1,
+   0,
+   1
+  ],
+  "h": [
+   -2,
+   0,
+   1
+  ],
+  "f": [
+   21,
+   0,
+   -36,
+   0,
+   25,
+   0,
+   -8,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   1,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   0,
+   1
+  ],
+  "f": [
+   3,
+   0,
+   6,
+   0,
+   7,
+   0,
+   4,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   1,
+   0,
+   1
+  ],
+  "h": [
+   1,
+   1,
+   1
+  ],
+  "f": [
+   3,
+   6,
+   13,
+   18,
+   20,
+   16,
+   10,
+   4,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   1,
+   0,
+   1
+  ],
+  "h": [
+   -3,
+   0,
+   1
+  ],
+  "f": [
+   91,
+   0,
+   -114,
+   0,
+   55,
+   0,
+   -12,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   1,
+   0,
+   1
+  ],
+  "h": [
+   2,
+   0,
+   1
+  ],
+  "f": [
+   21,
+   0,
+   36,
+   0,
+   25,
+   0,
+   8,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   1,
+   0,
+   1
+  ],
+  "h": [
+   -1,
+   1,
+   1
+  ],
+  "f": [
+   3,
+   -6,
+   1,
+   10,
+   -4,
+   -8,
+   2,
+   4,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   1
+  ],
+  "f": [
+   -2,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    2
+   ],
+   [
+    1,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 0.3,
+  "known_order": 8,
+  "matches_known": true
+ },
+ {
+  "g": [
+   1,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 4,
+  "W_order": 4,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    2
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 2,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 0.5,
+  "known_order": 4,
+  "matches_known": true
+ },
+ {
+  "g": [
+   1,
+   1,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   0,
+   1,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": 4
+ },
+ {
+  "g": [
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   1
+  ],
+  "f": [
+   -3,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    2
+   ],
+   [
+    1,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 0.4,
+  "known_order": null
+ },
+ {
+  "g": [
+   2,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   1
+  ],
+  "f": [
+   2,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    2
+   ],
+   [
+    1,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 0.2,
+  "known_order": 8,
+  "matches_known": true
+ },
+ {
+  "g": [
+   -1,
+   1,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   1
+  ],
+  "f": [
+   -1,
+   0,
+   1,
+   0,
+   1
+  ],
+  "n": 4,
+  "deg_g": 2,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 8,
+  "fibre_blocks": [
+   [
+    0,
+    2
+   ],
+   [
+    1,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 0.4,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   -2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 12,
+  "W_order": 12,
+  "fibre_blocks": [
+   [
+    0,
+    1,
+    3
+   ],
+   [
+    2,
+    4,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 6,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 3.3,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   0,
+   0,
+   1,
+   0,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 6,
+  "W_order": 12,
+  "fibre_blocks": [
+   [
+    0,
+    2,
+    3
+   ],
+   [
+    1,
+    4,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 3,
+  "kernel_order": 3,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 3.6,
+  "known_order": null
+ },
+ {
+  "g": [
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   -3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 12,
+  "W_order": 12,
+  "fibre_blocks": [
+   [
+    0,
+    1,
+    3
+   ],
+   [
+    2,
+    4,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 6,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 2.6,
+  "known_order": null
+ },
+ {
+  "g": [
+   2,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 12,
+  "W_order": 12,
+  "fibre_blocks": [
+   [
+    0,
+    1,
+    2
+   ],
+   [
+    3,
+    4,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 6,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 2.4,
+  "known_order": null
+ },
+ {
+  "g": [
+   -1,
+   1,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   -1,
+   0,
+   0,
+   1,
+   0,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 2,
+  "deg_h": 3,
+  "G_order": 12,
+  "W_order": 12,
+  "fibre_blocks": [
+   [
+    0,
+    1,
+    2
+   ],
+   [
+    3,
+    4,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 6,
+  "kernel_order": 6,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 2.6,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   -2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "G_order": 16,
+  "W_order": 128,
+  "fibre_blocks": [
+   [
+    0,
+    2,
+    4,
+    6
+   ],
+   [
+    1,
+    3,
+    5,
+    7
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 8,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 10.5,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "G_order": 8,
+  "W_order": 16,
+  "fibre_blocks": [
+   [
+    0,
+    1,
+    6,
+    7
+   ],
+   [
+    2,
+    3,
+    4,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 4,
+  "kernel_order": 4,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 14.7,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   -3,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "G_order": 32,
+  "W_order": 128,
+  "fibre_blocks": [
+   [
+    0,
+    3,
+    6,
+    7
+   ],
+   [
+    1,
+    2,
+    4,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 8,
+  "kernel_order": 16,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 12.2,
+  "known_order": null
+ },
+ {
+  "g": [
+   2,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "G_order": 16,
+  "W_order": 128,
+  "fibre_blocks": [
+   [
+    0,
+    4,
+    5,
+    6
+   ],
+   [
+    1,
+    2,
+    3,
+    7
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 8,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 16.4,
+  "known_order": null
+ },
+ {
+  "g": [
+   -1,
+   1,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  "f": [
+   -1,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 2,
+  "deg_h": 4,
+  "G_order": 32,
+  "W_order": 128,
+  "fibre_blocks": [
+   [
+    0,
+    4,
+    5,
+    6
+   ],
+   [
+    1,
+    2,
+    3,
+    7
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 2,
+  "Gal_g_order": 2,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 8,
+  "kernel_order": 16,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 11.8,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   1
+  ],
+  "f": [
+   -2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "G_order": 12,
+  "W_order": 12,
+  "fibre_blocks": [
+   [
+    0,
+    4
+   ],
+   [
+    1,
+    5
+   ],
+   [
+    2,
+    3
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 6,
+  "Gal_g_order": 6,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 2,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 3.4,
+  "known_order": 12,
+  "matches_known": true
+ },
+ {
+  "g": [
+   1,
+   1,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   0,
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "G_order": 48,
+  "W_order": 48,
+  "fibre_blocks": [
+   [
+    0,
+    5
+   ],
+   [
+    1,
+    2
+   ],
+   [
+    3,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 6,
+  "Gal_g_order": 6,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 0.9,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   0,
+   -3,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "G_order": 24,
+  "W_order": 48,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    5
+   ],
+   [
+    2,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 3,
+  "Gal_g_order": 3,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 3.7,
+  "known_order": null
+ },
+ {
+  "g": [
+   0,
+   1,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   1
+  ],
+  "f": [
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   0,
+   -3,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   1
+  ],
+  "f": [
+   0,
+   0,
+   -3,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ },
+ {
+  "g": [
+   2,
+   0,
+   1,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   1
+  ],
+  "f": [
+   2,
+   0,
+   0,
+   0,
+   1,
+   0,
+   1
+  ],
+  "n": 6,
+  "deg_g": 3,
+  "deg_h": 2,
+  "G_order": 48,
+  "W_order": 48,
+  "fibre_blocks": [
+   [
+    0,
+    3
+   ],
+   [
+    1,
+    5
+   ],
+   [
+    2,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 6,
+  "Gal_g_order": 6,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 2.3,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "G_order": 8,
+  "W_order": 16,
+  "fibre_blocks": [
+   [
+    0,
+    7
+   ],
+   [
+    1,
+    6
+   ],
+   [
+    2,
+    5
+   ],
+   [
+    3,
+    4
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 4,
+  "Gal_g_order": 4,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 2,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 14.2,
+  "known_order": null
+ },
+ {
+  "g": [
+   -2,
+   0,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   1
+  ],
+  "f": [
+   -2,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "G_order": 16,
+  "W_order": 128,
+  "fibre_blocks": [
+   [
+    0,
+    4
+   ],
+   [
+    1,
+    7
+   ],
+   [
+    2,
+    6
+   ],
+   [
+    3,
+    5
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 8,
+  "Gal_g_order": 8,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 2,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 7.5,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   1,
+   0,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   0,
+   1,
+   0,
+   0,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "G_order": 192,
+  "W_order": 384,
+  "fibre_blocks": [
+   [
+    0,
+    5
+   ],
+   [
+    1,
+    2
+   ],
+   [
+    3,
+    7
+   ],
+   [
+    4,
+    6
+   ]
+  ],
+  "P1_fibres_in_lattice": true,
+  "block_quotient_order": 24,
+  "Gal_g_order": 24,
+  "P2_block_quotient_is_Gal_g": true,
+  "local_group_order": 2,
+  "kernel_order": 8,
+  "P3_order_factorization": true,
+  "P3_G_in_L_wr_piG": true,
+  "Gal_h_order": null,
+  "X_local_group_in_Gal_h": null,
+  "status": "ok",
+  "time_s": 16.7,
+  "known_order": null
+ },
+ {
+  "g": [
+   1,
+   0,
+   1,
+   0,
+   1
+  ],
+  "h": [
+   0,
+   0,
+   1
+  ],
+  "f": [
+   1,
+   0,
+   0,
+   0,
+   1,
+   0,
+   0,
+   0,
+   1
+  ],
+  "n": 8,
+  "deg_g": 4,
+  "deg_h": 2,
+  "status": "skipped: f reducible",
+  "time_s": 0.0,
+  "known_order": null
+ }
+]
