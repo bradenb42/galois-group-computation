@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated paper."
+
+title: "Certified Galois group computation"
+type: software
+
+authors:
+  - family-names: "Bost"
+    given-names: "Braden"
+
+repository-code: "https://github.com/bradenb42/galois-group-computation"
+license: "MIT"
+
+preferred-citation:
+  type: article
+  title: "A uniform certified algorithm for Galois groups over Q, p-adic fields, and F_q(t)"
+  authors:
+    - family-names: "Bost"
+      given-names: "Braden"
+  year: 2026
