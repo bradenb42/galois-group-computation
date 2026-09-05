@@ -1,0 +1,62 @@
+{
+  "approximation": {
+    "constant_extension_s": null,
+    "input_precision_N": null,
+    "kind": "prime",
+    "p": 7,
+    "ramification_index_e_prime": null,
+    "require_degree_one_root": true,
+    "residue_degree_s": 3,
+    "t0": null,
+    "t0_constant_extension_degree": 1,
+    "tower": null
+  },
+  "coefficient_ring": {
+    "Fq_defining_poly": null,
+    "K_defining_poly": null,
+    "K_ramification_index": null,
+    "K_residue_degree": null,
+    "kind": "Z",
+    "p": null,
+    "q": null
+  },
+  "created_utc": "2026-08-22T01:16:34.510883+00:00",
+  "family_check": {
+    "data": {},
+    "family": null
+  },
+  "invariant_table_path": "tables/invariants_descent.json",
+  "notes": "composition g∘h with g=x^2-2, h=x^3-x; relative block group S_3, Gal(h) trivial",
+  "polynomial": {
+    "coefficient_size_hint": null,
+    "coefficients": [
+      "-2",
+      "0",
+      "0",
+      "0"
+    ],
+    "degree": 4,
+    "variable": "x"
+  },
+  "precision_policy": {
+    "effective_precision_accounting": true,
+    "escalation": "to_k_prf",
+    "fixed_k": null,
+    "initial": "k_rec",
+    "local_certificate": "pairwise_separation",
+    "max_precision": 1048576,
+    "tschirnhaus_sample_factor": 2
+  },
+  "pruning_sources": [
+    "frobenius_local",
+    "frobenius_other_primes",
+    "block_structure"
+  ],
+  "run_id": "20260822T011634Z-a06bbf6b",
+  "spec_version": "galois_certificate_spec.md@final",
+  "terminal_preference": [
+    "T1",
+    "T2",
+    "T3"
+  ]
+}
