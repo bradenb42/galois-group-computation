@@ -1,0 +1,48 @@
+name: Assemble result datasets
+
+on:
+  push:
+    paths:
+      - '.github/workflows/assemble-result-datasets.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  assemble:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Reconstruct and verify datasets
+        shell: bash
+        run: |
+          set -euo pipefail
+          base64 -d .staging/results/compositions.json.gz.b64 | gzip -d > family_compositions_results.json
+          base64 -d .staging/results/eisenstein.json.gz.b64 | gzip -d > family_eisenstein_results.json
+
+          python3 - <<'PY'
+          import json
+          c = json.load(open('family_compositions_results.json'))
+          e = json.load(open('family_eisenstein_results.json'))
+          assert len(c) == 184, len(c)
+          assert len(e['local']) == 90, len(e['local'])
+          assert len(e['global_cross_check']) == 14, len(e['global_cross_check'])
+          PY
+
+          test "$(git hash-object family_compositions_results.json)" = "9e678d94d35d7369cd741c1570d9f0552cae5d59"
+          test "$(git hash-object family_eisenstein_results.json)" = "77ed6b1e08855e76350d8d0f0acadd6f41f4bbc8"
+
+      - name: Commit reconstructed datasets
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add family_compositions_results.json family_eisenstein_results.json
+          git rm -r .staging/results
+          git rm .github/workflows/assemble-result-datasets.yml
+          git commit -m 'Add family result datasets'
+          git push origin HEAD:main
