@@ -1,0 +1,23 @@
+{
+  "measurements": {
+    "height_sweep": {
+      "shape": "x^5 - c",
+      "cs": [2, 7, 101, 10007, 1000003, 1000000007, 1000000000039],
+      "K": 6
+    },
+    "index_examples": [
+      {"f": [1, -1, 1, -1, 1], "start": "subfield"},
+      {"f": [1, -1, 1, -1, 1], "start": "Sn"},
+      {"f": [-2, 0, 0, 0, 0, 1], "start": "subfield"},
+      {"f": [12, -5, 0, 0, 0, 1], "start": "subfield"},
+      {"f": [1, 0, 0, 1, 0, 0, 1], "start": "subfield"},
+      {"f": [-2, 0, 0, 0, 1], "start": "Sn"}
+    ],
+    "K": 6,
+    "sources": {
+      "check1": "family_compositions_results.json",
+      "check2": "family_eisenstein_results.json",
+      "check3": "family_sparse_results.json"
+    }
+  }
+}
