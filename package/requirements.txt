@@ -1,0 +1,3 @@
+# The prover, checker and test suite use the Python standard library only.
+# matplotlib is required solely for the figures produced by measurements.py.
+matplotlib>=3.5

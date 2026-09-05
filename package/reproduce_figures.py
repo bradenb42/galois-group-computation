@@ -20,10 +20,11 @@ if "--remeasure" in sys.argv:
     cfg["sources"] = {k: os.path.join(HERE, "results", os.path.basename(v)) for k, v in cfg["sources"].items()}
     os.chdir(os.path.join(HERE, "code"))                       # the prover reads tables/ relative paths
     os.makedirs("tables", exist_ok=True)
-    for t in ("invariants_descent.json", "invariants_demo.json"):
+    for t in ("invariants.json", "invariants_descent.json"):
         src = os.path.join(HERE, "tables", t)
         if os.path.exists(src) and not os.path.exists(os.path.join("tables", t)):
-            import shutil; shutil.copy(src, os.path.join("tables", t))
+            import shutil
+            shutil.copy(src, os.path.join("tables", t))
     meas = M.build(cfg)
     json.dump(meas, open(os.path.join(HERE, "measurements", "measurements.json"), "w"), indent=1)
     print("re-measured")
