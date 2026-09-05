@@ -1,23 +1,137 @@
 {
-  "measurements": {
-    "height_sweep": {
-      "shape": "x^5 - c",
-      "cs": [2, 7, 101, 10007, 1000003, 1000000007, 1000000000039],
-      "K": 6
-    },
-    "index_examples": [
-      {"f": [1, -1, 1, -1, 1], "start": "subfield"},
-      {"f": [1, -1, 1, -1, 1], "start": "Sn"},
-      {"f": [-2, 0, 0, 0, 0, 1], "start": "subfield"},
-      {"f": [12, -5, 0, 0, 0, 1], "start": "subfield"},
-      {"f": [1, 0, 0, 1, 0, 0, 1], "start": "subfield"},
-      {"f": [-2, 0, 0, 0, 1], "start": "Sn"}
-    ],
-    "K": 6,
-    "sources": {
-      "check1": "family_compositions_results.json",
-      "check2": "family_eisenstein_results.json",
-      "check3": "family_sparse_results.json"
-    }
+ "spec_version": "galois_certificate_spec.md@final",
+ "families": {
+  "check1_compositions": {
+   "catalogue": "family_compositions.CATALOGUE",
+   "degree_cap": 8,
+   "subgroup_cap": 800,
+   "results": "results/family_compositions_results.json"
+  },
+  "check2_eisenstein": {
+   "primes": [
+    2,
+    3,
+    5
+   ],
+   "degree_cap": 12,
+   "stratum": "tame (p not dividing n): x^n - g^j p, j < gcd(n, p-1), plus 2 random Eisenstein per (p,n)",
+   "extras_seed": 20260823,
+   "results": "results/family_eisenstein_results.json"
+  },
+  "check3_sparse": {
+   "families": {
+    "A": "family_sparse.FAMILY_A",
+    "B": "family_sparse.FAMILY_B",
+    "C": "family_sparse.FAMILY_C"
+   },
+   "results": "results/family_sparse_results.json",
+   "status": "resumable; run python3 code/family_sparse.py <budget_s> to extend"
   }
+ },
+ "measurements": {
+  "height_sweep": {
+   "shape": "x^5 - c",
+   "cs": [
+    2,
+    7,
+    101,
+    10007,
+    1000003,
+    1000000007,
+    1000000000039
+   ],
+   "K": 6
+  },
+  "index_examples": [
+   {
+    "f": [
+     1,
+     -1,
+     1,
+     -1,
+     1
+    ],
+    "start": "subfield"
+   },
+   {
+    "f": [
+     1,
+     -1,
+     1,
+     -1,
+     1
+    ],
+    "start": "Sn"
+   },
+   {
+    "f": [
+     -2,
+     0,
+     0,
+     0,
+     0,
+     1
+    ],
+    "start": "subfield"
+   },
+   {
+    "f": [
+     12,
+     -5,
+     0,
+     0,
+     0,
+     1
+    ],
+    "start": "subfield"
+   },
+   {
+    "f": [
+     1,
+     0,
+     0,
+     1,
+     0,
+     0,
+     1
+    ],
+    "start": "subfield"
+   },
+   {
+    "f": [
+     -2,
+     0,
+     0,
+     0,
+     1
+    ],
+    "start": "Sn"
+   }
+  ],
+  "K": 6,
+  "sources": {
+   "check1": "family_compositions_results.json",
+   "check2": "family_eisenstein_results.json",
+   "check3": "family_sparse_results.json"
+  }
+ },
+ "ablation": {
+  "rings": [
+   "Z",
+   "Fq(t)"
+  ],
+  "polynomials": {
+   "Z": [
+    "Phi_10",
+    "x^5-2"
+   ],
+   "Fqt": [
+    "x^4-t over F_7"
+   ]
+  },
+  "K": {
+   "Z": 6,
+   "Fqt": 12
+  }
+ }
 }
