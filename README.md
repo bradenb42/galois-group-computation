@@ -248,5 +248,6 @@ MIT
 
 ## Citation
 
-<!-- TODO: add CITATION.cff at the repository root and reference the paper or
-     Zenodo DOI here. -->
+Citation metadata is provided in [`CITATION.cff`](CITATION.cff). The preferred paper citation is:
+
+Braden Bost, *A uniform certified algorithm for Galois groups over Q, p-adic fields, and F_q(t)* (2026).
