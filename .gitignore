@@ -1,31 +1,39 @@
-# --- Python ---
+# --- Python caches and environments ---
 __pycache__/
 *.py[cod]
 *.egg-info/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
 .venv/
 venv/
 
-# --- generated caches (regenerated automatically on first run) ---
+# --- generated caches and plots ---
 tables/
 figures/
 
-# --- per-run output directories ---
+# --- per-run outputs ---
 runs/
 
 # --- scratch files written by family_sparse.py ---
 scratch_lacunary_*.json
 
-# --- OS / editor cruft ---
+# --- OS and editor state ---
 .DS_Store
 Thumbs.db
 .idea/
 .vscode/
 
-# --- Regenerated results.
-# These are COMMITTED on purpose: tests.py asserts exact counts against them
-# and certs/ is used by the checker smoke test. Uncomment to exclude them
-# instead, accepting that tests.py will fail on a fresh clone until the
-# family scripts have been run.
+# --- committed generated evidence ---
+# These files are intentionally tracked: tests.py asserts exact counts against
+# the family datasets, measurements are part of the recorded evidence, and
+# certs/ is used by the checker smoke test. Uncommenting any entry below changes
+# that reproducibility contract and may make a fresh clone fail tests until the
+# corresponding generators have been run.
 #
 # family_compositions_results.json
 # family_eisenstein_results.json
