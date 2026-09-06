@@ -2,6 +2,8 @@
 
 This directory is a self-contained snapshot of the code, recorded data, certificates, measurements, figures, and certificate specification used by the artifact.
 
+> **Maintenance note:** `package/` is a reproducibility snapshot, not a second development tree. Make routine source changes at the repository root first. Update the corresponding packaged copy only when the change is intended to alter the archived artifact, keeping copied files byte-identical to their top-level counterparts whenever the package layout allows it.
+
 ## Requirements
 
 Python 3.9 or later. The prover and checker use the standard library; `matplotlib` is needed only to regenerate figures. The packaged dependency declaration is in `requirements.txt`.
